@@ -1,0 +1,10 @@
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.deps.json
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.json
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.dev.json
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/alex/Documents/C#/re-learn-C#/razorMoviePages/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.pdb
